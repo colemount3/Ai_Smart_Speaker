@@ -1,0 +1,3 @@
+[submodule "chatGPT-Voice-Assistant"]
+	path = chatGPT-Voice-Assistant
+	url = https://github.com/colemount3/chatGPT-Voice-Assistant.git
